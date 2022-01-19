@@ -27,9 +27,14 @@ ICON_NAME  (required)
 CLASS_NAME (optional)
 
 Check the list of available [icons](https://icons.getbootstrap.com/#icons)
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/amed/bootstrap-svg-icons.
+
+## Development
+
+run `ruby update_icons.rb` to update icons list.
 
 ## License
 
